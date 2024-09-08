@@ -15,5 +15,5 @@ Estoy en github para tres cosas, el plan es que esta presentación cambie con lo
 <ul>
   <li>Aprender transmitiendo lo aprendido</li>
   <li> Compartir proyectos </li>
-  <li>Disfritar d ela biblioteca de código que es Github</li></li>
+  <li>Disfritar de la biblioteca de código que es Github</li></li>
 </ul>
