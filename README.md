@@ -10,10 +10,10 @@ Desde que tuve mi primer Windows 3.1 hasta ahora no ha dejado de fascinarme el m
 
 _______
 
-Estoy en github para dos cosas en principio, el plan es que esta presentación cambie con los años, pero por el momento:
+Estoy en github para tres cosas, el plan es que esta presentación cambie con los años, y que todo lo que reciba de la comunidad, lo pueda devolver en un futuro; pero de momento la función es la que sigue:
 
 <ul>
-  <li>Aprender transmitiendo lo aprendido/li>
+  <li>Aprender transmitiendo lo aprendido</li>
   <li> Compartir proyectos </li>
   <li>Disfritar d ela biblioteca de código que es Github</li></li>
 </ul>
